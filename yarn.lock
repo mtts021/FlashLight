@@ -5389,6 +5389,16 @@ react-native-gradle-plugin@^0.0.6:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.6.tgz#b61a9234ad2f61430937911003cddd7e15c72b45"
   integrity sha512-eIlgtsmDp1jLC24dRn43hB3kEcZVqx6DUQbR0N1ABXGnMEafm9I3V3dUUeD1vh+Dy5WqijSoEwLNUPLgu5zDMg==
 
+react-native-shake@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-shake/-/react-native-shake-5.1.1.tgz#733657764b0395b26f26576bba51e2dcbcecfe89"
+  integrity sha512-h6O8LnFd3LkvoYx7O0afM6rO9fDKomZ1EyomGgKRDyFhinxYIU7Z4uPYtwA4Z1Cd3frEEKTLNKHI1Eu0MOI3Yw==
+
+react-native-torch@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-torch/-/react-native-torch-1.2.0.tgz#e83303cc1be35f009d50728f775be1ff5d786203"
+  integrity sha512-xyk6DC/JL/P8ozGZt+qXvfzK3QugxJjjPWZRUZ7xIfhbHxX44Kw0Afc9gxk9LhVKrAKfwtjGUJgcx9/4FNMGvA==
+
 react-native-web@0.17.7:
   version "0.17.7"
   resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.17.7.tgz#038899dbc94467a0ca0be214b88a30e0c117b176"
